@@ -1,2 +1,2 @@
-My first readme
-My first directory
+My first readme.
+Updated.
